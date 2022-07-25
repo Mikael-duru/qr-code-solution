@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://qr-code-mikael.netlify.app/](https://qr-code-mikael.netlify.app/)
+- Live site: [https://qr-code-mikael.netlify.app/](https://qr-code-mikael.netlify.app/)
 
 
 ## My process
