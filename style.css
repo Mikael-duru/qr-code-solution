@@ -41,7 +41,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 308px;
+  width: 320px;
   background-color: var(--white-color);
   border-radius: 2.3rem;
   box-shadow: 0 8rem 16rem rgba(0, 0, 0, .1);
@@ -59,7 +59,7 @@ body {
 }
 
 .card .qr-text {
-  padding: .8rem 2.5rem;
+  padding: .8rem 3.5rem;
 }
 
 .card .qr-text h1 {
@@ -97,10 +97,6 @@ body {
 @media screen and (max-width: 1440px) {
   html {
     font-size: 58%;
-  }
-  
-  .card {
-    max-width: 320px;
   }
 }
 
